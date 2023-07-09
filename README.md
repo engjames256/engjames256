@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Oyee James </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center"> A MERN developer 🧑🏽‍💻 with a love for creating intuitive and user-friendly apps. Trained in Lean & Agile, Project Management, Emotional Intelligence, Lean Start-Up, Human-Centred Design, Critical Thinking as well as Customer Service. I always bring positive energy to any team attached to with great team spirit. </h3>
+<h3 align="center"> A MERN developer 🧑🏽‍💻 with a love for creating intuitive and user-friendly apps. Trained in Lean & Agile, Emotional Intelligence, Lean Start-Up, Human-Centred Design, Critical Thinking as well as Customer Service. I always bring positive energy to any team attached to with great team spirit. </h3>
 
 ## **About me**
 <picture> <img align="right" src="https://user-images.githubusercontent.com/97470591/211007344-adf1cb3d-93d9-447a-af88-29403126c5c1.gif" width = 250px></picture>
