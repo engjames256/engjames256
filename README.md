@@ -16,8 +16,8 @@
 📫  Feel free to reach me:
 
 [![Email](https://img.shields.io/badge/Email-%40engjames@gmail.com%20-blue)](mailto:engjames256@gmail.com?)
-[![Linkedin: engjames256](https://img.shields.io/badge/-engjames256-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-malvi-587511125/)](https://www.linkedin.com/in/engjames256/)
-[![Twitter: engjames256_](https://img.shields.io/twitter/follow/engjames256_?style=social)](https://twitter.com/engjames256_)
+[![Linkedin: engjames256](https://img.shields.io/badge/-engjames256-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engjames256/)](https://www.linkedin.com/in/engjames256/)
+[![Twitter: engjames256_](https://img.shields.io/twitter/follow/engjames256?style=social)](https://twitter.com/engjames256_)
 
 <!--
 **engjames256/engjames256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
