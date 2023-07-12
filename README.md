@@ -8,7 +8,7 @@
 ### 
 - 🧑🏽‍💻 I’m currently working on a Booking App.
 - 📚 I’m currently: Experimenting Python.
-- 💬 Ask me about: React/React Ntive, Node/Express/Mongo.
+- 💬 Ask me about: React/React Ntive, Node/Express, Mongo/Mongoose.
 - 💪🏼 Future Goals: Explore more technologies - Never stop creating new ideas.
 - ⚡ My interests: Fullstack development.
 - 💻 Outside tech: Playing Scrubble 🌴.
